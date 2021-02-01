@@ -1,2 +1,5 @@
 # Mterminal
-Add command to enable using terminal in minecraft
+Add command on MCDR to enable using terminal in minecraft
+
+## Command
+`!!os [command]`Just this
